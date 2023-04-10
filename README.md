@@ -42,7 +42,7 @@ In the below video demonstration, I show my version of the Detection and Analysi
 
 ## Conclusion
 
-In this project I was able to work an incident utilizing Azure Sentinel and the NIST Incident Management Lifecycle as a guide. The incident itself was a false positive, was noted as such and closed out. Azure Sentinel is a powerful security tool in the implementation of security controls in Azure.
+In this project I was able to work an incident utilizing Azure Sentinel using the NIST Incident Management Lifecycle as a guide. The incident itself was a false positive, was noted as such and closed out. Azure Sentinel is a powerful security tool in the implementation of security controls in Azure.
 <br />
 <br />
 
