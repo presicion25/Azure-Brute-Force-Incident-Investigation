@@ -4,7 +4,7 @@
 
 ## Summary
 
-In this project I work an incident in Azure Sentinel using log data ingested through the log analytics workspace. I use the NIST Incident Management Lifecycle, specifically the second step (Detection and Analysis), which has several sub-steps within it. Utilizing the investigation screen I demonstrate the entities involded and other incidents related to those entities. I am then able to close out the incident as a false positive and inject notes for future reference of similar incidents.
+In this project I work an incident in Azure Sentinel using log data ingested through the log analytics workspace. I use the NIST Incident Management Lifecycle, specifically the second step (Detection and Analysis), which has several sub-steps within it. Utilizing the investigation screen I demonstrate the entities involved and other incidents related to those entities. I am then able to close out the incident as a false positive and inject notes for future reference of similar incidents.
 <br />
 <br />
 
