@@ -32,7 +32,7 @@ In the below video demonstration, I show my version of the Detection and Analysi
 <br />
 <br />
 
-[![Part 1](https://i.vimeocdn.com/video/1652884917-01b02f9a6dbb8a2929e18c78759bbe2043703deb3407cd099056151206c1d409-d_295x166?r=pad)](hhttps://vimeo.com/816314412 "Azure Brute Force Investigation")
+[![Part 1](https://i.vimeocdn.com/video/1652884917-01b02f9a6dbb8a2929e18c78759bbe2043703deb3407cd099056151206c1d409-d_295x166?r=pad)](https://vimeo.com/816314412 "Azure Brute Force Investigation")
 <br />
 <br />
 
